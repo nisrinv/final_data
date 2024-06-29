@@ -1,0 +1,21 @@
+train: ../train/images
+val: ../test/images
+
+nc: 14
+names:
+  [
+    "Air",
+    "Angsa",
+    "BadakSumbu",
+    "Baju",
+    "Betul",
+    "Burger",
+    "Demam",
+    "Johor",
+    "Kedah",
+    "SakitJantung",
+    "Salah",
+    "SayaSayangAwak",
+    "Selangor",
+    "Tudung",
+  ]
