@@ -1,5 +1,0 @@
-train: ../train/images
-val: ../test/images
-
-nc: 8
-names: ['Air', 'Angsa', 'BadakSumbu', 'Baju', 'Betul', 'Burger', 'Demam', 'Johor']
